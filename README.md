@@ -11,6 +11,8 @@ telegram - https://t.me/hvckfy
 discord - hvckfy
 twitch - https://www.twitch.tv/hvckfy
 
+check my angle-sensor:
+https://github.com/hvckfy/angle-sensor
 <!---
 hvckfy/hvckfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
