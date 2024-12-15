@@ -11,7 +11,6 @@ and at sever part of beyondessplay.com(also soon)
 my social networks:
 telegram - https://t.me/hvckfy
 discord - hvckfy
-twitch - https://www.twitch.tv/hvckfy
 
 check my bots in telegram:
 @tictactoeingbot
