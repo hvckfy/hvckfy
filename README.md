@@ -123,18 +123,8 @@ class Developer:
 - **Code Quality Advocacy** - Implementing best practices and development standards
 - **Performance Optimization** - Profiling, debugging, and system optimization
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvckfy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvckfy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvckfy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Featured Projects
