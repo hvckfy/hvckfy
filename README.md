@@ -145,7 +145,7 @@ class Developer:
 [![TicTacToe Bot](https://github-readme-stats.vercel.app/api/pin/?username=hvckfy&repo=tictactoe&theme=tokyonight&hide_border=true)](https://github.com/hvckfy/tictactoe)
 
 [![Wind Rose](https://github-readme-stats.vercel.app/api/pin/?username=hvckfy&repo=wind-rose&theme=tokyonight&hide_border=true)](https://github.com/hvckfy/wind-rose)
-[![Profile Config](https://github-readme-stats.vercel.app/api/pin/?username=hvckfy&repo=hvckfy&theme=tokyonight&hide_border=true)](https://github.com/hvckfy/hvckfy)
+[![My own firewall](https://github-readme-stats.vercel.app/api/pin/?username=hvckfy&repo=go-simple-firewall&theme=tokyonight&hide_border=true)](https://github.com/hvckfy/go-simple-firewall)
 
 </div>
 
