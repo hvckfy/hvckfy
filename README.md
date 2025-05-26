@@ -15,23 +15,30 @@ class Developer:
         self.username = "hvckfy"
         self.location = "Russia"
         self.education = "Radio-Electronic Systems Engineer"
-        self.languages = ["Russian", "English (B2+)"]
+        self.languages = ["Russian", "English (C1)"]
         
     def get_skills(self):
         return {
             "backend": ["Python", "C++", "Go", "Flask", "RESTful API"],
-            "languages": ["Python", "C++", "Go", "Lua"],
-            "databases": ["Tarantool"],
+            "languages": ["Python", "C++", "Go", "Lua", "HTML"],
+            "databases": ["Tarantool", "go-tarantool"],
             "async": ["asyncio", "asynchttp"],
             "data": ["numpy"],
-            "bots": ["PyTelegramBotAPI"],
-            "tools": ["Linux", "Git", "difflib"],
+            "web": ["HTML Templates", "WebSockets", "HTTP Servers", "JSON Processing"],
+            "testing": ["pytest", "pytest-cov"],
+            "code_quality": ["black", "flake8", "isort", "mypy", "bandit"],
+            "devops": ["Linux Administration", "System Configuration", "Server Management"],
+            "tools": ["Linux", "Git", "pre-commit", "Sphinx"],
             "embedded": ["Microcontrollers", "Hardware Integration"],
-            "other": ["Game Design", "Document Automation"]
+            "other": ["Game Design", "Document Automation", "Performance Profiling"],
+            "parsing": ["File Parsing", "Web Scraping", "User-Agent Rotation", "Proxy Management"],
+            "networking": ["TCP/IP", "UDP", "HTTP/HTTPS", "Network Protocols"],
+            "science": ["Physics", "Higher Mathematics", "Scientific Computing"],
+            "soft_skills": ["Business Communication", "Team Leadership", "Project Management"]
         }
     
     def current_projects(self):
-        return ["Farcana", "beyondessplay.com"]
+        return ["Farcana", "beyondessplay.com", "Network Protocol Research"]
 ```
 
 ## 🛠️ Tech Stack
@@ -43,6 +50,7 @@ class Developer:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -52,10 +60,26 @@ class Developer:
 ### Databases
 ![Tarantool](https://img.shields.io/badge/Tarantool-FF6B35?style=for-the-badge&logo=tarantool&logoColor=white)
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+### Development Tools
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
+![MyPy](https://img.shields.io/badge/MyPy-2E8B57?style=for-the-badge&logo=python&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=sphinx&logoColor=white)
+
+### DevOps & System Administration
+![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=devops&logoColor=white)
+![System Admin](https://img.shields.io/badge/System_Admin-FF6B35?style=for-the-badge&logo=server&logoColor=white)
+
+### Networking & Protocols
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-FF6B35?style=for-the-badge&logo=udp&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### Data Processing & Parsing
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6B6B?style=for-the-badge&logo=web&logoColor=white)
+![Proxy](https://img.shields.io/badge/Proxy_Management-4ECDC4?style=for-the-badge&logo=proxy&logoColor=white)
 
 </div>
 
@@ -84,6 +108,20 @@ class Developer:
 - Automated PDF and WORD document generation
 - Custom business process automation
 - Client-specific document processing systems
+
+## 🎯 Core Competencies
+
+### 💼 Soft Skills
+- **Team Leadership** - Leading backend development teams and technical roadmaps
+- **Business Communication** - Extensive experience in client relations and stakeholder management
+- **Project Management** - End-to-end project delivery and cross-functional collaboration
+- **Technical Mentoring** - Guiding junior developers and knowledge sharing
+
+### 🔧 Technical Leadership
+- **System Architecture** - Designing scalable backend solutions and infrastructure
+- **DevOps Practices** - Linux administration, server management, and deployment automation
+- **Code Quality Advocacy** - Implementing best practices and development standards
+- **Performance Optimization** - Profiling, debugging, and system optimization
 
 ## 📊 GitHub Stats
 
@@ -148,6 +186,15 @@ class Developer:
 - 🌪️ Built a **wind analysis application** for meteorological data
 - 📄 Developed **document automation systems** for business processes
 - 📡 Working with **IoT devices** and **hardware integration**
+- 🛠️ Experienced with **Go backend development** and **Tarantool database** integration
+- 🧪 Strong advocate for **code quality** using pytest, black, mypy, and other linting tools
+- 🌐 Expert in **network protocols** (TCP/IP, UDP) and **web scraping** with proxy rotation
+- 🔍 Experienced in **file parsing** and **data extraction** with user-agent management
+- 🧮 Strong **scientific background** in physics and higher mathematics
+- 📊 Skilled in **scientific computing** and mathematical modeling
+- 🐧 Proficient in **Linux administration** and **DevOps practices**
+- 💼 Strong **business communication** skills and experience in **team leadership**
+- 🗣️ **C1 level English** for international collaboration and technical documentation
 
 ---
 
